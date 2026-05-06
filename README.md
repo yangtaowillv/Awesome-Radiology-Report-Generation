@@ -153,6 +153,9 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - Uncertainty-Aware Cross-Modal Retrieval for Medical Report Generation [[paper](https://ieeexplore.ieee.org/document/11440925)][[code](https://github.com/Zhounan1222/U-CAR)]
 - A Prompt-Guided Vision-Language Framework for Interpretable and Region-Aware Disease Diagnosis in Chest X-rays [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11488862)]
 
+**IEEE Transactions on Radiation and Plasma Medical Sciences'26**
+- CFCM-Gen:Cross-modal Feature Co-optimization Mechanism for 3D Radiology Report Generation [[paper](https://ieeexplore.ieee.org/abstract/document/11498522)]
+
 **Information Fusion'26**
 - AI-Assisted Synthetic Medical Report Generation using Radiomic Feature Correlation-based PCA Scores of Multimodal Data for Dementia Progression [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002484)]
 - CX-Mind: A Pioneering Multimodal Large Language Model for Interleaved Reasoning in Chest X-ray via Curriculum-Guided Reinforcement Learning [[paper](https://arxiv.org/abs/2508.03733)][[code](https://github.com/SII-WenjieLisjtu/CX-Mind)]
