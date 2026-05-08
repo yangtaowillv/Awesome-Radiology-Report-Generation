@@ -89,6 +89,8 @@ We collect existing papers on radiology report generation that have been publish
 - Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models [[paper](https://www.nature.com/articles/s41746-025-02300-y)]
 - A robust vision language model for molecular status prediction and radiology report generation in adult-type diffuse gliomas [[paper](https://www.nature.com/articles/s41746-026-02581-x_reference.pdf)]
 
+**TPAMI'26**
+- Advancing In-Context Learning for Efficient and Stable Medical Report Generation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11503684)]
 
 **ICLR'26**
 - Learning Self-Critiquing Mechanisms for Region-Guided Chest X-Ray Report Generation [[paper](https://openreview.net/forum?id=6sOSwgCmpH)]
@@ -170,7 +172,6 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 **Information Processing & Management'26**
 - Latent diffusion-augmented cross-modal representation learning for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002542)][[cpde](https://github.com/Eleanorhxd/LDCR)]
 
-
 **EAAI'26**
 - Auto-encoding clinical language for zero-shot medical report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625032750)]
 - Mixture of experts for radiology report generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197626007189)]
@@ -180,6 +181,9 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - ITAdapter: Image-Tag Adapter Framework with Retrieval Knowledge Enhancer for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426004070)]
 - Factual Serialization Enhancement: A Key Innovation for Chest X-ray Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426014636)][[code](https://github.com/mk-runner/FSE)]
 - Spatio-Temporal-Aware Preference Optimization for Personalized Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426012777)]
+
+**Neurocomputing'26**
+- Medical report generation via knowledge distill and medical keywords [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226012208)]
 
 **arXiv'26**
 - VolumeVision: A 2.5D Hierarchical Architecture for Efficient Automated Reporting of Chest CT Volumes [[paper](https://assets.tina.io/1fb09d03-9237-4c49-aaa9-d024a83c7ac7/VolumeVision.pdf)]
@@ -241,7 +245,7 @@ Dual-Stream Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/downl
 - ReXSonoVQA: A Video QA Benchmark for Procedure-Centric Ultrasound Understanding [[paper](https://arxiv.org/pdf/2604.10916)][[code](https://github.com/rajpurkarlab/RexSonoVQA)]
 - IRG-DR: Interactive Report Generation Framework with Evidence Guidance for Diabetic Retinopathy [[paper](https://fyust.edu.cn/gjhyqk/cscwd2026/papers/paper_661.pdf)]
 - CT-FineBench: A Diagnostic Fidelity Benchmark for Fine-Grained Evaluation of CT Report Generation [[paper](https://arxiv.org/pdf/2604.24001)]
-- 
+- Graph-Augmented Topological Internalization with Dual-Stream Classifiers for Medical Report Generation [[paper](https://arxiv.org/pdf/2605.02376)]
 
 ---
 
